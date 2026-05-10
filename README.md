@@ -55,7 +55,6 @@ AdventureWorks invertía presupuesto de marketing basándose en volumen de venta
 ## Archivos del repositorio
 | Archivo | Descripción |
 |---------|-------------|
-| `queries.sql` | Consultas SQL principales con JOINs |
 | `dashboard.xlsx` | Dashboard de KPIs por mercado |
 | `reporte_final.pdf` | Informe de recomendaciones estratégicas |
 | `images/` | Capturas del dashboard |
