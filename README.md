@@ -55,9 +55,9 @@ AdventureWorks invertía presupuesto de marketing basándose en volumen de venta
 ## Archivos del repositorio
 | Archivo | Descripción |
 |---------|-------------|
-| `dashboard.xlsx` | Dashboard de KPIs por mercado |
-| `reporte_final.pdf` | Informe de recomendaciones estratégicas |
-| `images/` | Capturas del dashboard |
+| `Proyecto 3_ Análisis del desempeño financiero con SQL - Resumen ejecutivo` | Dashboard de KPIs por mercado |
+| `Análisis del desempeño financiero de Adventure Works con SQL` | Informe de recomendaciones estratégicas |
+| `Análisis del desempeño financiero de Adventure Works con SQL` | Capturas del dashboard |
 
 ---
 
